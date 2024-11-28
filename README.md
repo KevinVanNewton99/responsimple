@@ -45,3 +45,7 @@ Responsimple is a mobile first's grid system written 100% pure CSS code with awe
 #### Responsimple is a project by [@jonmircha](http://jonmircha.com "Jonathan MirCha")
 
 cambio de prueba
+
+¿Quieres dominar el uso de _git_? Mira este [enlace](https://jonmircha.com/git).
+
+![Flujo de Git](git-flow.png)
